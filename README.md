@@ -13,4 +13,4 @@
 
 `./vendor/bin/sail npm run dev`
 
->To check outgoing emails visit to mailhog at [http://localhost:8026/](http://localhost:8026/)
+>To check outgoing emails visit "mailhog" at [http://localhost:8026/](http://localhost:8026/)
